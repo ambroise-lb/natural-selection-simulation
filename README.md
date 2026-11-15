@@ -4,7 +4,7 @@ A Python simulation of natural selection in a population of giraffes.
 It studies how **mutation rate** and **environmental pressure** interact
 to shape the evolution of a trait (neck size).
 
-📄 Full write-up: [paper/Natural_Selection_and_Genetics.pdf](paper/Natural_Selection_and_Genetics.pdf)
+Full write-up: [paper/Natural_Selection_and_Genetics.pdf](paper/Natural_Selection_and_Genetics.pdf)
 
 ## The model
 
